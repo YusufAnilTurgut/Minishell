@@ -16,7 +16,7 @@ Prerequisites
 
 Building
 # Clone the repository:
-$ git clone https://github.com/badi361/Minishell
+$ git clone https://github.com/YusufAnilTurgut/Minishell.git
 
 # Change directory to the project directory and compile;
 $ cd minishell && make
